@@ -16,7 +16,8 @@
         "nyagos.exe"
     ],
     "checkver": {
-        "github": "https://github.com/zetamatta/nyagos"
+        "url": "https://github.com/zetamatta/nyagos/releases/latest",
+        "re": "/releases/tag/([\\d._]+)"
     },
     "autoupdate": {
         "architecture": {

@@ -18,9 +18,7 @@
             ]
         }
     },
-    "checkver": {
-        "github": "https://github.com/peco/peco"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
